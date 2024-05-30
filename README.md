@@ -1,4 +1,7 @@
 # Food-Insecurity-Clustering
+
+Data Science for Social Good (DTSC 4301/2) Studio Course (CAPSTONE) Final Project
+
 Food Insecurity in North Carolina: Analyzing Demographic Impacts with Clustering
 
 Analyzing contributers to an overall Food Insecurity Rate, comparing characteristics across NC counties through clustering, analyzing cluster outliers for key observations.
