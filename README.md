@@ -1,6 +1,7 @@
 # Food-Insecurity-Clustering
 
 Data Science for Social Good (DTSC 4301/2) Studio Course (CAPSTONE) Final Project
+
 Collaborators: Mahmoud Alhousseiny, Tacoma Jones, Mason Keziah
 
 Food Insecurity in North Carolina: Analyzing Demographic Impacts with Clustering
